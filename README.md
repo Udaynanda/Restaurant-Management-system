@@ -1,5 +1,7 @@
 # Restaurant Management system
-CS207 Course Project - done under the guidance of Dr.Aruna Tiwari
+CS207 Course Project - done under the guidance
+
+of Dr.Aruna Tiwari
 
 
 Members :
